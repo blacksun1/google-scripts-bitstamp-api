@@ -1,0 +1,26 @@
+{
+  "name": "google-scripts-bitstamp-api",
+  "version": "0.1.0",
+  "description": "BitStamp API wrapper for google scripts.",
+  "main": "bs_BitStampAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jslint bs_BitStampAPI.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blacksun1/google-scripts-bitstamp-api.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "BitCoins",
+    "BitStamp",
+    "GoogleScript"
+  ],
+  "author": "Simon Bruce",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/blacksun1/google-scripts-bitstamp-api/issues"
+  },
+  "homepage": "https://github.com/blacksun1/google-scripts-bitstamp-api"
+}
